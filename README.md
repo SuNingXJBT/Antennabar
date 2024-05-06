@@ -1,8 +1,8 @@
 # Antennabar of eFootball
-Explanation of the eFootball Antenna Bar
-Explanation of the eFootball Antenna Bar 
+#Explanation of the eFootball Antenna Bar
+ 
 
-Check PDF file for detail. 
+Check PDF file for detail.  https://github.com/SuNingXJBT/Antennabar/blob/main/explanation%20of%20the%20eFootball%20antenna%20bar.pdf
 
 1 year ago I shared a post to explain the meaning of eFootball’s antenna bar. Here is the finding. 
 
